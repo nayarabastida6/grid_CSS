@@ -1,0 +1,27 @@
+.container {
+    font-size: 40px;
+    width: 100%;
+    background-color: LightGray;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+  }
+  
+  .d1 {
+    background-color: rgb(135, 206, 250);
+  }
+  
+  .d2 {
+    background-color: rgb(255, 160, 122);
+  }
+  
+  .d3 {
+    background-color: rgb(175, 238, 238);
+  }
+  
+  .d4 {
+    background-color: rgb(255, 182, 193);
+  }
+  
+  .d5 {
+    background-color: rgb(144, 238, 144);
+  }
